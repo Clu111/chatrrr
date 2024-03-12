@@ -1,0 +1,14 @@
+C:\Users\is22-11\source\repos\ConsoleApp1\ewqeq\bin\Debug\net8.0\ewqeq.exe
+C:\Users\is22-11\source\repos\ConsoleApp1\ewqeq\bin\Debug\net8.0\ewqeq.deps.json
+C:\Users\is22-11\source\repos\ConsoleApp1\ewqeq\bin\Debug\net8.0\ewqeq.runtimeconfig.json
+C:\Users\is22-11\source\repos\ConsoleApp1\ewqeq\bin\Debug\net8.0\ewqeq.dll
+C:\Users\is22-11\source\repos\ConsoleApp1\ewqeq\bin\Debug\net8.0\ewqeq.pdb
+C:\Users\is22-11\source\repos\ConsoleApp1\ewqeq\obj\Debug\net8.0\ewqeq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\is22-11\source\repos\ConsoleApp1\ewqeq\obj\Debug\net8.0\ewqeq.AssemblyInfoInputs.cache
+C:\Users\is22-11\source\repos\ConsoleApp1\ewqeq\obj\Debug\net8.0\ewqeq.AssemblyInfo.cs
+C:\Users\is22-11\source\repos\ConsoleApp1\ewqeq\obj\Debug\net8.0\ewqeq.csproj.CoreCompileInputs.cache
+C:\Users\is22-11\source\repos\ConsoleApp1\ewqeq\obj\Debug\net8.0\ewqeq.dll
+C:\Users\is22-11\source\repos\ConsoleApp1\ewqeq\obj\Debug\net8.0\refint\ewqeq.dll
+C:\Users\is22-11\source\repos\ConsoleApp1\ewqeq\obj\Debug\net8.0\ewqeq.pdb
+C:\Users\is22-11\source\repos\ConsoleApp1\ewqeq\obj\Debug\net8.0\ewqeq.genruntimeconfig.cache
+C:\Users\is22-11\source\repos\ConsoleApp1\ewqeq\obj\Debug\net8.0\ref\ewqeq.dll
